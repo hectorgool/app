@@ -1,0 +1,6 @@
+References:
+
+https://docs.docker.com/compose/rails/
+
+
+docker-compose run web rails new . --force --database=postgresql --skip-bundle
